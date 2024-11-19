@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom Styles */
+/* Smooth Transition */
 body {
-  @apply bg-gray-100 text-gray-800 font-sans;
+  @apply transition-colors duration-300;
 }
