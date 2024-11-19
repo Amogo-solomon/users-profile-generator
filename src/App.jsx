@@ -5,7 +5,7 @@ import UserProfilePage from "./pages/UserProfilePage";
 const App = () => {
   return (
     <div className="min-h-screen">
-    {/*   <Header /> */}
+     {/*  <Header /> */}
       <UserProfilePage />
     </div>
   );

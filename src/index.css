@@ -4,6 +4,12 @@
 @tailwind utilities;
 
 
+/* Smooth Transition */
+body {
+  @apply transition-colors duration-300;
+}
+
+
 
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
